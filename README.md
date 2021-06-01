@@ -1,25 +1,24 @@
-# Master CT Assignment Template 
+# Triangle Area Calculator 
+## (not done yet!)
+The program should calculate the area of a triangle. Unfortunately, it contains several errors. Your task is to correct those errors so it runs correctly.
 
-Use this master template to create CT Assignment Templates.
+### Pseudocode 
+* get base and height from user
+* calculate area and assign the value to a variable
+* print the area in a sentence
+    * Your sentence format MUST match the expected formatting!
 
-## Problem Description
-Problem description goes here. 
-
-* Steps to take go here. 
-
-## Example
+### Example
 ```
-Value to increment? 5
-10
+Base of triangle: 5
+Height of triangle: 10
+Output: The area of the triangle is 25.
 ```
 
-## Suggested Approach
-1) Suggestions go here
+### Submitting your program
+When you are finished, double-check that your output is formatted correctly.
 
-## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
-
+Then, commit and push to GitHub.
+* Be sure to go to the GitHub repo and check to be sure your program passed the automatic test.
+* If you get a green check-mark, you're done. A red X means you need to make some changes. Double-check the formatting of your print statement!
+* Questions? Ask for help!
